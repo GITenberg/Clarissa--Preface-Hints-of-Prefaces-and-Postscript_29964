@@ -1,0 +1,40 @@
+_repo: Clarissa--Preface-Hints-of-Prefaces-and-Postscript_29964
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 29964-h/images/cover.png
+creator:
+  author:
+    agent_name: Richardson, Samuel
+    birthdate: 1689
+    deathdate: 1761
+    gutenberg_agent_id: '1959'
+    url: http://www.gutenberg.org/2009/agents/1959
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_Richardson
+  editor:
+    agent_name: Brissenden, R. F.
+    alias: Brissenden, Robert Francis
+    gutenberg_agent_id: '34274'
+    url: http://www.gutenberg.org/2009/agents/34274
+description: ''
+gutenberg_issued: '2009-09-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29964'
+  lccn: '64064210'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Richardson, Samuel, 1689-1761. Clarissa'
+- !lcsh 'England -- Fiction'
+- !lcsh 'Young women -- Crimes against -- Fiction'
+- !lcsh 'Kidnapping victims -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Conflict of generations -- Fiction'
+- !lcsh 'Psychological fiction'
+- !lcsh 'Rape victims -- Fiction'
+- !lcsh 'Epistolary fiction'
+title: 'Clarissa: Preface, Hints of Prefaces, and Postscript'
+url: http://www.gutenberg.org/ebooks/29964
